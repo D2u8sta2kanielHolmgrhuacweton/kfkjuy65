@@ -5,3 +5,4 @@ Add feature for X [Hbla4Z] line 1.2
 Update documentation [e40aze] line 2.1
 Refactor codebase with Z [AIIWLO] line 3.3
 Add feature for X [C0TdFL] line 6.1
+Refactor codebase with Z [fWqRW8] line 7.1
