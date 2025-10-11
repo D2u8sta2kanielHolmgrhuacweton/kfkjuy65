@@ -5,3 +5,4 @@ Fix issue in Y [mfbOeo] line 1.1
 Add test case for W [Sa0XtC] line 2.1
 Add feature for X [1qnd5H] line 5.2
 Update documentation [lJQF5P] line 6.1
+Add feature for X [5aBSPy] line 11.1
