@@ -5,3 +5,4 @@ Add feature for X [C0TdFL] line 6.2
 Update documentation [myl0ny] line 8.1
 Update documentation [lJQF5P] line 6.3
 Refactor codebase with Z [qlqLkW] line 8.1
+Add feature for X [Z5W7pG] line 9.1
