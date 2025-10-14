@@ -8,3 +8,5 @@ Add feature for X [C0TdFL] line 6.1
 Refactor codebase with Z [fWqRW8] line 7.1
 Improve performance [o7E0Jw] line 10.2
 Update documentation [lJQF5P] line 6.2
+Add feature for X [JqV0sr] line 7.1
+Add feature for X [JqV0sr] line 7.2
